@@ -48,4 +48,10 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://www.instagram.com/adithya_1908/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="tel:+918870355135">
+    <img src="https://img.shields.io/badge/Call-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
 </p>
